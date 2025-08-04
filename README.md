@@ -1,6 +1,6 @@
 # Projeto Bateria Virtual
 
-<img width="713" height="639" alt="Image" src="https://github.com/user-attachments/assets/58b3c33e-2698-4068-bb71-92fbf93533a5" style="width: 250px;"/>
+<img src="https://github.com/user-attachments/assets/58b3c33e-2698-4068-bb71-92fbf93533a5" style="height: 350px;"/>
 
 ## 📜 Sobre o Projeto
 
